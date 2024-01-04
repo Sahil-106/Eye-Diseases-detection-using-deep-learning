@@ -1,5 +1,3 @@
-Certainly! Here's a template for a README file based on the provided information:
-
 # Eye Disease Detection Using Deep Learning
 
 ## Introduction
@@ -95,16 +93,16 @@ The deep learning model demonstrated significant performance in eye disease dete
 
 Precision, recall, and F1-score were used to evaluate the model's performance for each class. The values are presented in Table 3. The model showed promising results, but imbalances in the dataset, especially towards more common classes like "Normal," may impact its performance.
 
-![Training and Validation Accuracy](path/to/figure2.png)
+![Training and Validation Accuracy](training-and-validation images/train-val acc.png)
 *Figure 2: Training and Validation accuracy of CNN Model*
 
-![Training and Validation Loss](Eye-Diseases-detection-using-deep-learning/training-and-validation images/loss.png)
+![Training and Validation Loss](training-and-validation images/loss.png)
 *Figure 3: CNN Model training and validation loss*
 
-#### Precision, Recall, and F1 Score
+#### confusion matrix
 
-![Precision, Recall, and F1 Score](path/to/figure5.png)
-*Figure 5: Graph for Precision, Recall, and F1 Score*
+![confusion matrix](training-and-validation images/matrix.png)
+*Figure 5: Confusion matrix*
 
 ### Comparison with Previous Work
 
@@ -128,7 +126,3 @@ In conclusion, the application of deep learning in eye disease detection holds g
 
 This project is licensed under [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
-
-- Acknowledge any external libraries or resources used in the project.
-- Mention any research papers or studies that inspired the project.
