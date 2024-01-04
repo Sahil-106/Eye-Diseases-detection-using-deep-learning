@@ -98,7 +98,7 @@ Precision, recall, and F1-score were used to evaluate the model's performance fo
 ![Training and Validation Accuracy](path/to/figure2.png)
 *Figure 2: Training and Validation accuracy of CNN Model*
 
-![Training and Validation Loss](path/to/figure3.png)
+![Training and Validation Loss](Eye-Diseases-detection-using-deep-learning/training-and-validation images/loss.png)
 *Figure 3: CNN Model training and validation loss*
 
 #### Precision, Recall, and F1 Score
