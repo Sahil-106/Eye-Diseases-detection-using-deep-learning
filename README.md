@@ -93,15 +93,15 @@ The deep learning model demonstrated significant performance in eye disease dete
 
 Precision, recall, and F1-score were used to evaluate the model's performance for each class. The values are presented in Table 3. The model showed promising results, but imbalances in the dataset, especially towards more common classes like "Normal," may impact its performance.
 
-![Training and Validation Accuracy](training-and-validation images/train-val acc.png)
+![Training and Validation Accuracy]([training-and-validation images/train-val acc.png](https://github.com/Sahil-106/Eye-Diseases-detection-using-deep-learning/blob/main/training-and-validation%20images/train-val%20acc.png))
 *Figure 2: Training and Validation accuracy of CNN Model*
 
-![Training and Validation Loss](training-and-validation images/loss.png)
+![Training and Validation Loss]([training-and-validation images/loss.png](https://github.com/Sahil-106/Eye-Diseases-detection-using-deep-learning/blob/main/training-and-validation%20images/loss.png)
 *Figure 3: CNN Model training and validation loss*
 
 #### confusion matrix
 
-![confusion matrix](training-and-validation images/matrix.png)
+![confusion matrix](https://github.com/Sahil-106/Eye-Diseases-detection-using-deep-learning/blob/main/training-and-validation%20images/matrix.png)
 *Figure 5: Confusion matrix*
 
 ### Comparison with Previous Work
