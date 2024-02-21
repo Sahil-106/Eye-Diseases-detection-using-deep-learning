@@ -124,5 +124,5 @@ In conclusion, the application of deep learning in eye disease detection holds g
 
 ## License
 
-This project is licensed under [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under [MIT Licence] - see the [LICENSE.md](LICENSE.md) file for details.
 
